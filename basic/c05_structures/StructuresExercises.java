@@ -67,5 +67,9 @@ public class StructuresExercises {
         }
 
         System.out.println(numerosMap);
+
+        numerosMap.put(100, 2);
+        System.out.println(numerosMap.get(20));
+        System.out.println(numerosMap);
     }
 }
