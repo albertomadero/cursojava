@@ -37,5 +37,7 @@ public class Arrays {
         System.out.println(booleans[4]);
 
         System.out.println(numeros.length);
+
+        System.out.println(numeros.length);
     }
 }
